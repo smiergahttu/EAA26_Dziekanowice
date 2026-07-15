@@ -4,6 +4,8 @@ Tomasz Oberc (IAE PAS)
 Session #106 "To whom it belongs – finds in the light of diverse burial contexts in the Neolithic period"  
 #989,"Intentional Offering or Accidental Intrusion: A Flint Blade in the Burial of a Child  
 
+HTML preview of the poster:  
+https://htmlpreview.github.io/?https://github.com/smiergahttu/EAA26_Dziekanowice/blob/main/poster.html#fig-4  
 
 Bibliography:
 
