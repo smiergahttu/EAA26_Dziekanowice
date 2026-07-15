@@ -1,5 +1,9 @@
 # EAA26_Dziekanowice
-Presentation EAA 2026 Dziekanowice
+Presentation EAA 2026  
+Tomasz Oberc (IAE PAS)
+Session #106 "To whom it belongs – finds in the light of diverse burial contexts in the Neolithic period"  
+#989,"Intentional Offering or Accidental Intrusion: A Flint Blade in the Burial of a Child  
+
 
 Bibliography:
 
@@ -34,3 +38,5 @@ DOI: https://doi.org/10.4312/dp.28.8
 DOI: https://doi.org/10.1017/RDC.2017.108  
 **26** Diaconescu D. 2014). Remarks on the chronology of the Lengyel culture in the western half of the Carpathian Basin based on the analysis of funerary assemblages. Praehistorische Zeitschrift 89(1), 12–39.  
 27 Diaconescu D. 2014b.Considerations concerning the chronology of the early Copper Age Tiszapolgár culture. Praehistorische Zeitschrift 89(2), 219–241.  
+
+This research was funded in whole or in part by the Polish National Science Centre (NCN PL) 2022/45/N/HS3/03475 *From waste to workshop. Activity areas in settlements of the Pleszów-Modlnica Group of the Lengyel-Polgar Circle from western Lesser Poland in the light of functional and spatial analyses of lithic artefacts.*
