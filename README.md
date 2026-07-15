@@ -1,6 +1,6 @@
 # EAA26_Dziekanowice
 Presentation EAA 2026  
-Tomasz Oberc (IAE PAS)
+Tomasz Oberc (IAE PAS)  
 Session #106 "To whom it belongs – finds in the light of diverse burial contexts in the Neolithic period"  
 #989,"Intentional Offering or Accidental Intrusion: A Flint Blade in the Burial of a Child  
 
